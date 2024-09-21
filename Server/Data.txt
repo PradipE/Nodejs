@@ -1,0 +1,6 @@
+
+1726903350362:GET :/signup : New client enter into server 
+1726907158477:GET :/ : New client enter into server 
+1726907161628:GET :/ : New client enter into server 
+1726907525120:GET :/ : New client enter into server 
+1726907532136:GET :/about : New client enter into server 
